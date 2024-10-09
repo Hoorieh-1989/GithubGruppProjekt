@@ -6,5 +6,9 @@ namespace GithubGruppProjekt
         {
             InitializeComponent();
         }
+        public void Patricio()
+        {
+            return;
+        }
     }
 }
