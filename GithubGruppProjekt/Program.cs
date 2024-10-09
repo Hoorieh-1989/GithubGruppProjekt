@@ -1,5 +1,6 @@
 namespace GithubGruppProjekt
 {
+
     internal static class Program
     {
         /// <summary>
