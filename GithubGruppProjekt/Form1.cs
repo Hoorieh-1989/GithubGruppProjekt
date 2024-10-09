@@ -2,6 +2,7 @@ namespace GithubGruppProjekt
 {
     public partial class Form1 : Form
     {
+
         public Form1()
         {
             InitializeComponent();
@@ -9,6 +10,7 @@ namespace GithubGruppProjekt
         public void Patricio()
         {
             //Kommentar
+            //making a comment for conflict
             return;
         }
     }
