@@ -9,7 +9,9 @@ namespace GithubGruppProjekt
         }
         public void Patricio()
         {
-            //Kommentar2
+
+            //conflict 2 
+
             //Kommentar
             //making a comment for conflict
             return;
